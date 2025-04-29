@@ -11,7 +11,7 @@
 Spokify is a web application that helps users learn to speak English fluently using AI technology. The platform provides personalized feedback, pronunciation correction, and interactive lessons.
 
 ## Video Explanation
-https://github.com/harshit-ig/Harshit_Singh_CSE1_Spokify/blob/main/video_explanation.mp4
+https://drive.google.com/file/d/1pb3HaAHDsHxXepPfZ-mNcA1E1A5Dj6xZ/view?usp=sharing
 
 
 ## Project Report
